@@ -1,0 +1,95 @@
+Producto,Cantidad,Unidad,Total,Valor_Unitario,tienda,fecha,mes,año
+yogurt griego,1.0,und,7300.0,7300.0,d1,2026-01-11,1,2026
+jamón pietrán,1.0,und,13650.0,13650.0,d1,2026-01-11,1,2026
+queso parmesano,1.0,und,14850.0,14850.0,d1,2026-01-11,1,2026
+quesillo tajado,1.0,und,9990.0,9990.0,d1,2026-01-11,1,2026
+topping mediano,4.0,und,19800.0,4950.0,d1,2026-01-11,1,2026
+tortilla saborizada,1.0,und,4990.0,4990.0,d1,2026-01-11,1,2026
+desodorante,4.0,und,35600.0,8900.0,d1,2026-01-11,1,2026
+copitos little,2.0,und,4980.0,2490.0,d1,2026-01-11,1,2026
+arequipe sin,1.0,und,7990.0,7990.0,d1,2026-01-03,1,2026
+bolsa reciclable,2.0,und,400.0,200.0,d1,2026-01-03,1,2026
+topping mediano,2.0,und,9900.0,4950.0,d1,2026-01-03,1,2026
+chips de vegetales,1.0,und,2990.0,2990.0,d1,2026-01-03,1,2026
+espuma de afeitar,1.0,und,6550.0,6550.0,d1,2026-01-03,1,2026
+tomates enteros,2.0,und,8700.0,4350.0,d1,2026-01-03,1,2026
+tostada integral,1.0,und,4950.0,4950.0,d1,2026-01-03,1,2026
+lonchera surtida,1.0,und,8490.0,8490.0,d1,2026-01-03,1,2026
+arepa amarilla,1.0,und,1850.0,1850.0,d1,2026-01-03,1,2026
+quesillo tajado,1.0,und,9990.0,9990.0,d1,2026-01-03,1,2026
+jamón pietrán,1.0,und,13650.0,13650.0,d1,2026-01-03,1,2026
+alimento lácteo,1.0,und,15950.0,15950.0,d1,2026-01-03,1,2026
+hojuela de maíz,3.0,und,14970.0,4990.0,d1,2026-01-03,1,2026
+chicharrón,1.0,und,9990.0,9990.0,d1,2026-01-03,1,2026
+ponqué banano,1.0,und,11500.0,11500.0,d1,2026-01-03,1,2026
+pan tajado,1.0,und,5990.0,5990.0,d1,2026-01-03,1,2026
+maq afei schick quatro,1.0,und,21700.0,21700.0,surtiplaza,2026-01-14,1,2026
+aguacate hazz,1.66,kg,9263.0,5580.120481927711,surtiplaza,2026-01-14,1,2026
+lechuga batavia,0.93,kg,3701.0,3979.569892473118,surtiplaza,2026-01-14,1,2026
+mix duo arveja zanahoria,1.0,und,5750.0,5750.0,surtiplaza,2026-01-14,1,2026
+maiz dulce selecti congelado,1.0,und,10700.0,10700.0,surtiplaza,2026-01-14,1,2026
+champiñon 150g tajado,1.0,und,5990.0,5990.0,surtiplaza,2026-01-14,1,2026
+tomate chonto,0.87,kg,4611.0,5300.0,surtiplaza,2026-01-14,1,2026
+huevo aaa rojo x30,3.0,und,43650.0,14550.0,surtiplaza,2026-01-14,1,2026
+hierbas monik,2.0,und,3800.0,1900.0,surtiplaza,2026-01-14,1,2026
+banano comun,1.42,kg,4232.0,2980.281690140845,surtiplaza,2026-01-14,1,2026
+bolsa supermercado,2.0,und,500.0,250.0,surtiplaza,2026-01-14,1,2026
+papa sin lavar,1.48,kg,3108.0,2100.0,surtiplaza,2026-01-19,1,2026
+lechuga batavia,1.0,kg,2980.0,2980.0,surtiplaza,2026-01-19,1,2026
+hierbas monik,2.0,und,3800.0,1900.0,surtiplaza,2026-01-19,1,2026
+cafe liofilizado colcafe 47g,1.0,und,10550.0,10550.0,surtiplaza,2026-01-19,1,2026
+papaya comun,1.3,kg,4394.0,3380.0,surtiplaza,2026-01-19,1,2026
+huevo tipo aaa amarrado (30 und),1.0,paquete,16800.0,16800.0,mercacentro,2026-01-06,1,2026
+leche mercacentro lv 6x1000 ml,2.0,paquete,44600.0,22300.0,mercacentro,2026-01-06,1,2026
+papa sin lavar,2.0,kg,4100.0,2050.0,surtiplaza,2026-01-03,1,2026
+lechuga batavia,0.73,kg,4200.0,5753.424657534247,surtiplaza,2026-01-03,1,2026
+mango grueso,2.11,kg,5095.0,2414.691943127962,surtiplaza,2026-01-03,1,2026
+hierbas mix,2.0,und,3800.0,1900.0,surtiplaza,2026-01-03,1,2026
+spaguetti pan,1.0,und,6300.0,6300.0,surtiplaza,2026-01-03,1,2026
+aguacate hass,1.0,und,6100.0,6100.0,surtiplaza,2026-01-03,1,2026
+verduras mix bandeja,1.28,kg,7442.0,5814.0625,surtiplaza,2026-01-03,1,2026
+manzana oferta bolsa,1.0,und,3550.0,3550.0,surtiplaza,2026-01-03,1,2026
+aguacate hass malla,1.0,und,8990.0,8990.0,surtiplaza,2026-01-03,1,2026
+papaya común,2.41,kg,7664.0,3180.082987551867,surtiplaza,2026-01-03,1,2026
+banano común,1.03,kg,3069.0,2979.6116504854367,surtiplaza,2026-01-03,1,2026
+tomate chonto,1.94,kg,2425.0,1250.0,surtiplaza,2026-01-03,1,2026
+salsa bbq san jorge,1.0,und,5950.0,5950.0,surtiplaza,2026-01-03,1,2026
+salsa de soya san jorge,2.0,und,4300.0,2150.0,surtiplaza,2026-01-03,1,2026
+crema alquería 180g,2.0,und,10500.0,5250.0,surtiplaza,2026-01-03,1,2026
+tortilla haz de oros,1.0,und,6650.0,6650.0,surtiplaza,2026-01-03,1,2026
+centro de cadera res,1.725,kg,56753.0,32900.289855072464,surtiplaza,2026-01-03,1,2026
+carne res bola negra,2.245,kg,72563.0,32322.04899777283,surtiplaza,2026-01-03,1,2026
+centro de cadera res,1.915,kg,63004.0,32900.26109660574,surtiplaza,2026-01-03,1,2026
+bolsa supermercado,4.0,und,1000.0,250.0,surtiplaza,2026-01-03,1,2026
+queso holandés,1.0,und,8300.0,8300.0,d1,2026-01-15,1,2026
+quesillo bloque,1.0,und,9990.0,9990.0,d1,2026-01-15,1,2026
+tomates enteros,1.0,und,4350.0,4350.0,d1,2026-01-15,1,2026
+topping mediano,2.0,und,9900.0,4950.0,d1,2026-01-15,1,2026
+chips de vegetales,2.0,und,5980.0,2990.0,d1,2026-01-15,1,2026
+leche mercacentro lv s.des 6x1000 ml,2.0,paq,44600.0,22300.0,mercacentro,2026-01-21,1,2026
+jamon de cerdo,1.0,und,9490.0,9490.0,d1,2026-01-27,1,2026
+queso mozzarella,1.0,und,9990.0,9990.0,d1,2026-01-27,1,2026
+champiñones,1.0,und,4990.0,4990.0,d1,2026-01-27,1,2026
+chocolate lynd,1.0,und,7990.0,7990.0,d1,2026-01-27,1,2026
+brownie arequipe,1.0,und,1990.0,1990.0,d1,2026-01-27,1,2026
+platanitos maduro,1.0,und,5490.0,5490.0,d1,2026-01-27,1,2026
+ponque banano,1.0,und,11500.0,11500.0,d1,2026-01-27,1,2026
+hojuela de maiz,2.0,und,9980.0,4990.0,d1,2026-01-27,1,2026
+topping mediterraneo,2.0,und,9900.0,4950.0,d1,2026-01-27,1,2026
+nachos crachos,1.0,und,3490.0,3490.0,d1,2026-01-27,1,2026
+chips de vegetales,4.0,und,11960.0,2990.0,d1,2026-01-27,1,2026
+bolsa ecologica,1.0,und,1200.0,1200.0,d1,2026-01-27,1,2026
+mezcla chocodu,1.0,und,1950.0,1950.0,d1,2026-01-27,1,2026
+filete de pechuga congelada,2.135,kg,38217.0,17900.23419203747,surtiplaza,2026-01-09,1,2026
+lechuga batavia,0.86,kg,4799.0,5580.232558139535,surtiplaza,2026-01-09,1,2026
+hierbas mix,2.0,und,3800.0,1900.0,surtiplaza,2026-01-09,1,2026
+cebolla cabezona,0.28,kg,644.0,2300.0,surtiplaza,2026-01-09,1,2026
+manzana verde bolsa,1.0,und,9990.0,9990.0,surtiplaza,2026-01-09,1,2026
+mango grueso,1.49,kg,4440.0,2979.8657718120808,surtiplaza,2026-01-09,1,2026
+maní carolina sin sal,4.0,und,25400.0,6350.0,surtiplaza,2026-01-09,1,2026
+tomate chonto,1.09,kg,3248.0,2979.816513761468,surtiplaza,2026-01-09,1,2026
+champiñón tajado 150g,1.0,und,5990.0,5990.0,surtiplaza,2026-01-09,1,2026
+papaya común,2.57,kg,8687.0,3380.1556420233464,surtiplaza,2026-01-09,1,2026
+yogurt griego,1.0,und,7300.0,7300.0,d1,2026-01-21,1,2026
+topping,3.0,und,14850.0,4950.0,d1,2026-01-21,1,2026
+queso holandes,1.0,und,8300.0,8300.0,d1,2026-01-21,1,2026
